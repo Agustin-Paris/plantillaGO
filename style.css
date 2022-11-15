@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color: aliceblue;
+}
+
+.container-block{
+    margin:auto;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(240, 242, 242);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container-principal {
+    background-color: rgb(227, 224, 224);
+    width: 400px;
+    height: 500px;
+    margin-top: 50px;
+    
+}
+
+.container-secundario{
+    background-color: rgb(197, 191, 191);
+    width: 400px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+}
+
+.container{
+    margin:auto;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
